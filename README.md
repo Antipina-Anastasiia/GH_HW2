@@ -1,1 +1,1 @@
-# GH_HW2
+# GitHub_HW2
